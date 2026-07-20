@@ -1,0 +1,1 @@
+{"name":"jj-flow-acceptance-target-adapt","private":true,"version":"0.1.0","type":"module","scripts":{"test":"node scripts/check-project.mjs"}}
